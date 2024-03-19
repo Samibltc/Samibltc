@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm [Sami], a passionate computer engineering student diving deep into the world of blockchain technologies. 🚀
+I'm Sami, a passionate computer engineering student diving deep into the world of blockchain technologies. 🚀
 
 ### About Me
 - 💻 Currently honing my skills in blockchain development, with a focus on smart contracts, decentralized applications (dApps), and consensus algorithms.
@@ -15,7 +15,7 @@ I'm [Sami], a passionate computer engineering student diving deep into the world
 
 
 ### Get in Touch
-- 🔗 [LinkedIn]([linkedin_profile_link](https://www.linkedin.com/in/sami-balatac%C4%B1-b4a48b208/))
-- 📧 [Email](sami.balataci@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sami-balatac%C4%B1-b4a48b208/)
+- 📧 [Email](mailto:sami.balataci@gmail.com)
 
 Let's connect and build the future of decentralized systems together! 🌐
